@@ -13,3 +13,6 @@ git push
 git pull 
 git push 
 git clone
+## my first github practice
+learning git step by step
+
