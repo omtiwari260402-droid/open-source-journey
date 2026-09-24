@@ -16,3 +16,9 @@ git clone
 ## my first github practice
 learning git step by step
 
+## git workflow
+1. modify 
+2. git status
+3. git add 
+4. git commit 
+5. git push
