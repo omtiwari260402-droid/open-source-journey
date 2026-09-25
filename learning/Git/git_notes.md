@@ -22,3 +22,7 @@ learning git step by step
 3. git add 
 4. git commit 
 5. git push
+
+## branch practice
+
+today i learned how git braches work 
